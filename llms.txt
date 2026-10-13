@@ -1,0 +1,11 @@
+# Skandha Media Services
+
+> Empowering Media growth
+
+Skandha Media Services is an organisation.
+Address: Skandha Media Services Pvt Ltd, B206/309, Everest Grande, Mahakali Caves Road, Andheri (E), Mumbai, 400093
+
+## Pages
+
+- [Skandha Media Services | Empowering Media growth](https://om-javheri.github.io/Media-services-test-website-2/): Skandha delivers intelligent, cloud-native solutions built around Media Capability Centers, designed to scale global media with speed, accuracy, and control. We optimize commercial opportunities and streamline operations for Broadcasters, OTT platforms, Content Owners, Aggregators and Rights Holders.
+- [Digital First Services | Skandha Media Services](https://om-javheri.github.io/Media-services-test-website-2/digital-first-services/): Skandha delivers intelligent, cloud-native solutions built around Media Capability Centers, designed to scale global media with speed, accuracy, and control. We optimize commercial opportunities and streamline operations for Broadcasters, OTT platforms, Content Owners, Aggregators and Rights Holders.
